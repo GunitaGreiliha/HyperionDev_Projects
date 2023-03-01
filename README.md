@@ -15,6 +15,7 @@ This repository contains all Capstone projects written by me during my Software 
 * Capstone 2 - Task Manager basic
 * Capstone 3 - Task Manager final
 * Capstone 4 - Shoe Warehouse Inventory
+* Capstone 5 - Bookstore
 
 ### Installation guide:
 1. In order to run the code please download this repository on your local PC.
